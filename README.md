@@ -64,4 +64,5 @@ LIMIT 1;
 SELECT name hanya menampilkan nama, WHERE class ='8A' untuk menampilkan hanya siswa dari kelas 8A.
 ORDER BY, DESC, LIMIT untuk memastikan hanya 1 siswa terbaik saja yang ditampilkan.
 
+PR: Bikin controller & router
 Tinggal benerin MySQL serta bikin database, table & masukkin baris2 nya (INSERT INTO), udah kelar
